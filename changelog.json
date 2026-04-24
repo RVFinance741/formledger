@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Rest timer pause button",
+    "date": "2026-04-23",
+    "category": "feature",
+    "feedback": "Multiple users flagged that mid-rest interruptions had no recovery path — the timer would reset instead of holding position."
+  },
+  {
+    "id": 2,
+    "title": "Smoother rest timer audio — gentle start, explosive final 10 seconds",
+    "date": "2026-04-23",
+    "category": "improvement",
+    "feedback": "The start beep was reported as jarring and disruptive at the beginning of a rest period."
+  },
+  {
+    "id": 3,
+    "title": "Feedback routes directly to the team via GitHub Issues",
+    "date": "2026-04-23",
+    "category": "improvement",
+    "feedback": "Previous feedback mechanism had no notification path — submissions were disappearing into a void."
+  },
+  {
+    "id": 4,
+    "title": "You Asked, We Built community board",
+    "date": "2026-04-23",
+    "category": "feature",
+    "feedback": "Users had no visibility into whether their feedback was read or acted on."
+  }
+]
