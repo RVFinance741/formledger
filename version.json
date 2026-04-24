@@ -1,0 +1,4 @@
+{
+  "version": "v15",
+  "notes": "Rest timer pause button added. Smoother audio — gentle sine start, explosive sawtooth burst in the final 10 seconds. Feedback now routes directly to the team as a GitHub Issue. Community board added: see exactly what gets shipped from your feedback."
+}
