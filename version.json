@@ -1,0 +1,4 @@
+{
+  "version": "v22",
+  "notes": "Mobile layout redesigned — exercise rows now stack as cards on phones. Sets, Reps, and Weight sit side by side with large touch targets. No more horizontal scrolling on mobile."
+}
