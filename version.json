@@ -1,0 +1,4 @@
+{
+  "version": "v23",
+  "notes": "Rotation bug fixed — rotating your phone no longer breaks the layout. Exercise rows now use a proper grid layout that recalculates correctly after any orientation change."
+}
