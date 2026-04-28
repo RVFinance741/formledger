@@ -1,0 +1,65 @@
+[
+  {
+    "id": 9,
+    "title": "Estimated 1-Rep Max tracker — Epley formula across your full history",
+    "date": "2026-04-26",
+    "category": "feature",
+    "feedback": "Serious lifters were already calculating this manually — the app should do it automatically from existing log data."
+  },
+  {
+    "id": 8,
+    "title": "Training Fingerprint — your personal training DNA",
+    "date": "2026-04-26",
+    "category": "feature",
+    "feedback": "Users wanted to see their actual training patterns — not just totals, but what their sessions say about them as an athlete."
+  },
+  {
+    "id": 7,
+    "title": "Rotation bug fixed — phone orientation no longer breaks layout",
+    "date": "2026-04-26",
+    "category": "bug",
+    "feedback": "Rotating from portrait to landscape and back required a page refresh to restore the correct layout."
+  },
+  {
+    "id": 6,
+    "title": "Mobile exercise layout — card view with no horizontal scrolling",
+    "date": "2026-04-25",
+    "category": "improvement",
+    "feedback": "On mobile web, having to scroll left to right to add weights and reps was not intuitive."
+  },
+  {
+    "id": 5,
+    "title": "Progressive Overload Signal — per-exercise weight comparison",
+    "date": "2026-04-24",
+    "category": "feature",
+    "feedback": "Users wanted to know at a glance whether they were progressing on each lift."
+  },
+  {
+    "id": 4,
+    "title": "Muscle Balance Ratio — Push:Pull and Quad:Hamstring over 28 days",
+    "date": "2026-04-24",
+    "category": "feature",
+    "feedback": "Serious lifters wanted a structural view of their volume balance, not just totals."
+  },
+  {
+    "id": 3,
+    "title": "Feedback now routes via Web3Forms — direct email reply to users",
+    "date": "2026-04-23",
+    "category": "improvement",
+    "feedback": "Previous feedback mechanism had no reliable notification path to the team."
+  },
+  {
+    "id": 2,
+    "title": "Smoother rest timer audio — gentle start, explosive final 10 seconds",
+    "date": "2026-04-23",
+    "category": "improvement",
+    "feedback": "The start beep was reported as jarring and disruptive at the beginning of rest."
+  },
+  {
+    "id": 1,
+    "title": "Rest timer pause button",
+    "date": "2026-04-23",
+    "category": "feature",
+    "feedback": "Mid-rest interruptions had no recovery path — the timer would reset instead of holding."
+  }
+]
