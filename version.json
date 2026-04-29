@@ -1,0 +1,4 @@
+{
+  "version": "v27",
+  "notes": "Voice input now works reliably on mobile. Clear messages when microphone is blocked — including when the app is opened from WhatsApp or a file manager instead of formledger.ca. Falls back to manual entry automatically so logging never stops."
+}
