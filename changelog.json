@@ -1,0 +1,86 @@
+[
+  {
+    "id": 12,
+    "title": "Voice input — reliable microphone handling on mobile",
+    "date": "2026-04-29",
+    "category": "bug",
+    "feedback": "Microphone permission denied even though allowed in settings — opened from WhatsApp instead of the live site."
+  },
+  {
+    "id": 11,
+    "title": "Full exercise voice logging — speak to log, auto-fill from history",
+    "date": "2026-04-29",
+    "category": "feature",
+    "feedback": "Tapping through five fields per exercise while still in the gym breaks the flow."
+  },
+  {
+    "id": 10,
+    "title": "Voice input for Sets, Reps, and Weight — speak numbers directly",
+    "date": "2026-04-29",
+    "category": "feature",
+    "feedback": "Typing numbers between heavy sets with sweaty hands is friction that should not exist."
+  },
+  {
+    "id": 9,
+    "title": "Estimated 1-Rep Max tracker — Epley formula across your full history",
+    "date": "2026-04-26",
+    "category": "feature",
+    "feedback": "Serious lifters were already calculating this manually."
+  },
+  {
+    "id": 8,
+    "title": "Training Fingerprint — your personal training DNA",
+    "date": "2026-04-26",
+    "category": "feature",
+    "feedback": "Users wanted to see their actual training patterns, not just totals."
+  },
+  {
+    "id": 7,
+    "title": "Rotation bug fixed — phone orientation no longer breaks layout",
+    "date": "2026-04-26",
+    "category": "bug",
+    "feedback": "Rotating portrait to landscape and back required a page refresh."
+  },
+  {
+    "id": 6,
+    "title": "Mobile exercise layout — card view with no horizontal scrolling",
+    "date": "2026-04-25",
+    "category": "improvement",
+    "feedback": "On mobile, scrolling left to right to add weights and reps was not intuitive."
+  },
+  {
+    "id": 5,
+    "title": "Progressive Overload Signal — per-exercise weight comparison",
+    "date": "2026-04-24",
+    "category": "feature",
+    "feedback": "Users wanted to know at a glance whether they were progressing."
+  },
+  {
+    "id": 4,
+    "title": "Muscle Balance Ratio — Push:Pull and Quad:Hamstring over 28 days",
+    "date": "2026-04-24",
+    "category": "feature",
+    "feedback": "Serious lifters wanted a structural view of their volume balance."
+  },
+  {
+    "id": 3,
+    "title": "Feedback now routes via Web3Forms — direct email reply to users",
+    "date": "2026-04-23",
+    "category": "improvement",
+    "feedback": "Previous feedback mechanism had no reliable notification path."
+  },
+  {
+    "id": 2,
+    "title": "Smoother rest timer audio — gentle start, explosive final 10 seconds",
+    "date": "2026-04-23",
+    "category": "improvement",
+    "feedback": "The start beep was reported as jarring."
+  },
+  {
+    "id": 1,
+    "title": "Rest timer pause button",
+    "date": "2026-04-23",
+    "category": "feature",
+    "feedback": "Mid-rest interruptions had no recovery path."
+  }
+]
