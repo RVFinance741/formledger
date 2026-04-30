@@ -1,4 +1,0 @@
-{
-  "version": "v29.1",
-  "notes": "ER tier line now shows training days instead of sessions — resolves the mismatch between the 46 sessions shown in the stats bar and the unique-date count used by the tier system. ShapER — 23 training days is now clearly distinct from the 46 total sessions."
-}
