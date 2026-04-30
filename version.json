@@ -1,4 +1,0 @@
-{
-  "version": "v30",
-  "notes": "Your ER tier now shows exactly how many training days until your next tier. ShapER? One line tells you how many days to TrainER. FoundER? The ceiling message acknowledges it. Patch releases no longer trigger this banner."
-}
