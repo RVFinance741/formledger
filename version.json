@@ -1,0 +1,4 @@
+{
+  "version": "v31",
+  "notes": "Rest timer upgraded — Reset button restarts your current rest from zero. The arc and digits shift gold to red in the final 10 seconds, deeper red at 5. Android devices get a haptic pulse at 10 seconds and on completion. Near a PR weight, the timer quietly suggests a longer rest."
+}
