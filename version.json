@@ -1,0 +1,4 @@
+{
+  "version": "v41",
+  "notes": "Data clarity update across all analytics surfaces — exercise names now wrap to two lines so nothing is cut off. Training Volume chart no longer shows the empty state alongside real data. Muscle Group radar now explains what it means in plain English. Muscle Balance cards show the healthy target range. Weekly Performance Summary deltas now show + and − signs. ORM cards updated with clearer labels."
+}
